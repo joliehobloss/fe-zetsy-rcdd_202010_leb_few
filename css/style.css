@@ -16,3 +16,7 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+img{
+  border: 1px solid grey;
+}
