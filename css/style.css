@@ -33,7 +33,9 @@ h1,h2{
   float: right;
 }
 
-.g1: hover
+.g1: hover{
+  border-color: grey;
+}
 
 
 
