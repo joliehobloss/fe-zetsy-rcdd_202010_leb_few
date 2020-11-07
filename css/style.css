@@ -33,9 +33,7 @@ h1,h2{
   float: right;
 }
 
-g1{
-  border-color: #727e8a;
-}
+
 
 .g1:hover{
 border-color: grey;
